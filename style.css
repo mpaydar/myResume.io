@@ -1,0 +1,135 @@
+
+.Summary{
+    margin-left: 50%;
+    margin-right: 50%;
+    background-color: rgb(250,250,250);
+    width: 100%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: block;
+    display: inline;
+}
+
+.research_list{
+    display: inline;
+}
+
+
+body{
+    background-color:rgb(250, 250, 250);
+}
+ul{
+    width: fit-content;
+}
+li{
+    width: fit-content;
+}
+
+
+p{
+    
+    width: fit-content;
+}
+hr{
+
+}
+
+.otherparts{
+    position: relative;
+    bottom: 400px;
+
+}
+.Welcome_message{
+    width: 599px;
+   
+}
+.Social_Pages{
+    display: inline;
+    position: relative;
+    left:1200px;
+    bottom: 400px;
+}
+
+.myTable{
+    display: inline;
+    
+}
+
+
+.gitHubLogo{
+    width: 200px;
+    display: inline;
+    position: relative;
+    bottom: 300px;
+
+}
+.linkdinLogo{
+    width: 100px;
+    display: inline;
+    position: relative;
+    bottom: 300px;
+}
+
+.Summary_div1{
+    width: 300px;
+    margin-left: 40%;
+    margin-right: 40%;
+    position: relative;
+    left: 85px;
+    bottom: 320px;
+}
+
+.Summary_div2{
+    width: 300px;
+    margin-left: 40%;
+    margin-right: 40%;
+    position: relative;
+    left: 85px;
+    bottom: 320px;
+
+
+}
+
+.Summary_div3{
+    width: 300px;
+    margin-left: 40%;
+    margin-right: 40%;
+
+
+}
+
+
+.Summary_Text{
+    background-color: rgb(169, 127, 71);
+}
+
+.summary_header{
+    display: inline;
+    width: fit-content;
+    margin-left: 0%;
+    margin-right: 0px;
+    position: relative;
+    left: 810px;
+    bottom: 355px 
+}
+
+
+img{
+    width: 65%;
+    height: 65%;
+    border-radius: 50%;
+}
+.profilePicture{
+    width: 200px ;
+    margin-left: 0;
+    left: 810px;
+    position: relative;
+    bottom: 335px;
+}
+span{
+    font-weight: bold;
+}
+footer{
+    font-size: small;
+}
